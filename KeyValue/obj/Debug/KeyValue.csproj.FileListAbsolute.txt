@@ -1,0 +1,16 @@
+C:\Users\PeterMild\source\repos\KeyValue\KeyValue\obj\Debug\KeyValue.csproj.AssemblyReference.cache
+C:\Users\PeterMild\source\repos\KeyValue\KeyValue\obj\Debug\KeyValue.csproj.SuggestedBindingRedirects.cache
+C:\Users\PeterMild\source\repos\KeyValue\KeyValue\obj\Debug\MainWindow.g.cs
+C:\Users\PeterMild\source\repos\KeyValue\KeyValue\obj\Debug\App.g.cs
+C:\Users\PeterMild\source\repos\KeyValue\KeyValue\obj\Debug\KeyValue_MarkupCompile.cache
+C:\Users\PeterMild\source\repos\KeyValue\KeyValue\obj\Debug\KeyValue_MarkupCompile.lref
+C:\Users\PeterMild\source\repos\KeyValue\KeyValue\bin\Debug\KeyValue.exe.config
+C:\Users\PeterMild\source\repos\KeyValue\KeyValue\bin\Debug\KeyValue.exe
+C:\Users\PeterMild\source\repos\KeyValue\KeyValue\bin\Debug\KeyValue.pdb
+C:\Users\PeterMild\source\repos\KeyValue\KeyValue\obj\Debug\MainWindow.baml
+C:\Users\PeterMild\source\repos\KeyValue\KeyValue\obj\Debug\KeyValue.g.resources
+C:\Users\PeterMild\source\repos\KeyValue\KeyValue\obj\Debug\KeyValue.Properties.Resources.resources
+C:\Users\PeterMild\source\repos\KeyValue\KeyValue\obj\Debug\KeyValue.csproj.GenerateResource.cache
+C:\Users\PeterMild\source\repos\KeyValue\KeyValue\obj\Debug\KeyValue.csproj.CoreCompileInputs.cache
+C:\Users\PeterMild\source\repos\KeyValue\KeyValue\obj\Debug\KeyValue.exe
+C:\Users\PeterMild\source\repos\KeyValue\KeyValue\obj\Debug\KeyValue.pdb
